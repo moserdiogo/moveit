@@ -36,7 +36,7 @@ Foram usadas as seguintes tecnologias:
 
 ## 📕 Bibliotecas
 
-Esse projeto foi utilizou das seguintes lib:
+Foram usadas as seguintes libs:
 
 - react
 - react-dom
